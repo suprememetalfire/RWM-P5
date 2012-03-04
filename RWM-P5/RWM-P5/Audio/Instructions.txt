@@ -1,0 +1,7 @@
+1. In order for audio to work on another PC, this folder must be copied to OGRE_HOME e.g. if OgreSDK is installed to C drive, it would be:
+
+C:\OgreSDK_vc10_v1-7-3\Audio
+
+2. The folder OGRE_HOME\bin\Debug must contain fmodex.dll. 
+
+3. OGRE_HOME\lib must contain fmodex_vc.lib

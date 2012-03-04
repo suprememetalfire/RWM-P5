@@ -1,0 +1,5 @@
+﻿  BaseApplication.cpp
+c:\users\necro-chaos\documents\college\year 4\real world modelling and simulation\rwm-p5\rwm-p5\rwm-p5\src\baseapplication.cpp(338): warning C4700: uninitialized local variable 'tfo' used
+c:\users\necro-chaos\documents\college\year 4\real world modelling and simulation\rwm-p5\rwm-p5\rwm-p5\src\baseapplication.cpp(339): warning C4700: uninitialized local variable 'aniso' used
+  RWM-P5.vcxproj -> C:\Users\NECRO-CHAOS\Documents\College\Year 4\Real World Modelling and Simulation\RWM-P5\RWM-P5\RWM-P5\bin\Debug\RWM-P5.exe
+          1 file(s) copied.
